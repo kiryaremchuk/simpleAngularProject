@@ -1,0 +1,26 @@
+ul > img {
+  width: 100%;
+  border: 2px solid pink;
+}
+ul > li {
+  padding: 20px 0;
+  border: 2px solid pink;
+  list-style-type: none;
+  margin: 10px 0;
+}
+input {
+  border: 2px solid pink;
+}
+button {
+  border: 2px solid pink;
+  background-color: white;
+  color: rgb(132, 190, 209);
+  font-weight: 700;
+}
+button:hover {
+  background-color: rgb(174, 226, 243);
+  color: pink;
+}
+p {
+  color: red;
+}
